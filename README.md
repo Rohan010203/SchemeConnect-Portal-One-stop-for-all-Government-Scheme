@@ -1,0 +1,1 @@
+Scheme Connect Portal is a unified platform that helps users discover, apply for, and track government schemes based on their eligibility. It improves access, transparency, and efficiency for beneficiaries like farmers, students, and patients
