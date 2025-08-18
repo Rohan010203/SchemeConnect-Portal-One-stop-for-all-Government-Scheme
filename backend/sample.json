@@ -1,0 +1,53 @@
+[
+    {
+      "name": "Senior Citizen Health Aid",
+      "url": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202410/6707abc131331-what-is-ayushman-bharats-senior-citizen-health-insurance-102607839-16x9.png?size=1200:675",
+      "description": "Free health checkups for senior citizens.",
+      "target": "patient",
+      "referenceLink": "https://www.india.gov.in/spotlight/ayushman-bharat-pradhan-mantri-jan-arogya-yojana#:~:text=In%20a%20significant%20move%2C%20the,coverage%2C%20regardless%20of%20their%20income.",
+      "eligibilityAge": 60,
+      "eligibilityCondition": "None",
+      "patientEligibility": "Must be above 60 years old"
+    },
+    {
+      "name": "Cancer Care Subsidy",
+      "url": "https://www.livertransplantpune.in/wp-content/uploads/2024/07/MPJAY-Logo.jpg",
+      "description": "Financial aid for cancer treatment.",
+      "target": "patient",
+      "referenceLink": "https://www.impactguru.com/medical-fundraising_v1?utm_source=google&utm_medium=paid-search&utm_campaign=Affint-FS&utm_content=Miscelleneous&utm_term=cancer%20patient%20help%20fund&device=c&matchtype=e&keyword=cancer%20patient%20help%20fund&adposition=&adgroup=159895255195&model=&location=1007812&network=g&source=google&medium=CMA&gad_source=1&gbraid=0AAAAAo7xcjq8EdjkvI4qPZYsL-IF4MfPs&gclid=Cj0KCQjww-HABhCGARIsALLO6XytYI9ziGDnjUsCS8bVwSNJFf4eup8NCqw49rT-CQhi1Js2DfDQLpgaAiWHEALw_wcB",
+      "eligibilityAge": 18,
+      "eligibilityCondition": "Cancer diagnosis required",
+      "patientEligibility": "Must have valid cancer diagnosis"
+    },
+    {
+      "name": "Diabetes Care Program",
+      "url": "https://www.chenmed.com/sites/default/files/2023-09/Caring%20for%20Our%20Patients-%20Helping%20an%20Uncontrolled%20Diabetic%20Stay%20Out%20of%20the%20Hospital.jpg",
+      "description": "Free consultation and meds for diabetes patients.",
+      "target": "patient",
+      "referenceLink": "https://info.profil.com/online-seminar-cgm-outcome-trials?gad_source=1&gbraid=0AAAAADhKeiwTf_59H7khBGyQ37FzUuQJB&gclid=Cj0KCQjww-HABhCGARIsALLO6XxG7IvaZunWxKZL4SY2i9Sp-I1osYU88A9tJH6bH2NYysut2doHQrwaAlJ3EALw_wcB",
+      "eligibilityAge": 30,
+      "eligibilityCondition": "Type 2 Diabetes",
+      "patientEligibility": "Proof of diabetes diagnosis needed"
+    },
+    {
+      "name": "Child Vaccination Drive",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQep5WTXi7P3RoDa1yuNmamU7ORjvzJWUul8A&s",
+      "description": "Free vaccines for children under 5.",
+      "target": "patient",
+      "referenceLink": "https://tnhealth.tn.gov.in/dph/dphis.php",
+      "eligibilityAge": 5,
+      "eligibilityCondition": "None",
+      "patientEligibility": "Children below 5 years"
+    },
+    {
+      "name": "Maternity Benefit Scheme",
+      "url": "https://pmgovtschemehub.com/wp-content/uploads/2025/03/Dr.Muthulakshmi-Maternity-Benefit-Scheme-Registration.jpg",
+      "description": "Cash assistance for expecting mothers.",
+      "target": "patient",
+      "referenceLink": "https://krishnagiri.nic.in/scheme/dr-muthulakshmi-maternity-benefit-scheme/",
+      "eligibilityAge": 18,
+      "eligibilityCondition": "Pregnant women",
+      "patientEligibility": "Must be pregnant and above 18"
+    }
+  ]
+  

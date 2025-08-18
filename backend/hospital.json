@@ -1,0 +1,53 @@
+[
+    {
+      "name": "Emergency Equipment Grant",
+      "url": "https://raymondcho.ca/wp-content/uploads/sites/2/2023/10/CEPG-1-English-1024x536.jpg",
+      "description": "Funds to upgrade emergency care units.",
+      "target": "hospital",
+      "referenceLink": "https://www.compeer.com/investing-in-rural-communities/giving-back/grants/emergency-response-equipment",
+      "eligibilityBeds": 100,
+      "eligibilityLocation": "Urban",
+      "eligibilityArea": "Emergency Services"
+    },
+    {
+      "name": "Rural Hospital Upgrade Program",
+      "url": "https://civilsocietyonline.com/static/media/static/2021/06/22/main-cover-2.869x568.jpg",
+      "description": "Infrastructure aid for rural hospitals.",
+      "target": "hospital",
+      "referenceLink": "https://www.hrsa.gov/rural-health/grants/rural-hospitals",
+      "eligibilityBeds": 50,
+      "eligibilityLocation": "Rural",
+      "eligibilityArea": "Infrastructure"
+    },
+    {
+      "name": "ICU Expansion Fund",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ5DdzNGpL0E182F75HGZ1ueNrBTyPTO6Bbw&s",
+      "description": "Funding for ICU expansion in metro hospitals.",
+      "target": "hospital",
+      "referenceLink": "https://www.mobihealthnews.com/news/asia/indian-icu-tech-startup-go-global-11m-funding",
+      "eligibilityBeds": 200,
+      "eligibilityLocation": "Urban",
+      "eligibilityArea": "ICU Facilities"
+    },
+    {
+      "name": "Green Hospital Initiative",
+      "url": "https://www.medica.de/medicacache/picf/1/0/2/0/2/94981593519975/Green_Hospital_panthermedia-sellingpix-sharepic_facebook_1200x1200-01.jpg",
+      "description": "Incentives for eco-friendly operations.",
+      "target": "hospital",
+      "referenceLink": "https://greenhospitals.org/",
+      "eligibilityBeds": 150,
+      "eligibilityLocation": "Any",
+      "eligibilityArea": "Sustainability"
+    },
+    {
+      "name": "Telemedicine Support Program",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ43XmQKKu7p6HecBhtR6H-Z4uHePCxcNqXRQ&s",
+      "description": "Grants for telemedicine infrastructure.",
+      "target": "hospital",
+      "referenceLink": "https://esanjeevani.mohfw.gov.in/#/",
+      "eligibilityBeds": 75,
+      "eligibilityLocation": "Semi-Urban",
+      "eligibilityArea": "Technology"
+    }
+  ]
+  
